@@ -15,6 +15,9 @@ Unsupported claims, jargon, or language that overpromises outcomes.
 - Frame AI as an operating layer that supports follow-up, accountability, and decision flow.
 - Keep recommendations practical, observable, and tied to current operations.
 
+## Current status
+This file currently contains templates and draft language structure, not confirmed proof. Label entries as Draft, approved, or proven before reuse.
+
 ## Language bank
 ```markdown
 ## Phrase or section
