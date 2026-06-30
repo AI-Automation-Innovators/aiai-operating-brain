@@ -24,6 +24,6 @@ Businesses often do not need more complexity first. They need to find where exis
 - Whether implementation is sold separately or bundled.
 
 ## Parking lot
-- Build a one-page intake checklist.
-- Create a sample audit report outline.
+- Build a one-page intake checklist. Draft added in `intake-questionnaire.md`; final questions still need Kevin confirmation.
+- Create a sample audit report outline. Draft added in `sample-audit-report-outline.md`; final format still needs Kevin confirmation.
 - Add examples by industry after Kevin confirms real or approved scenarios.
