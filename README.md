@@ -2,7 +2,13 @@
 Portable operating brain for AI Automation Innovators, including business context, offers, project instructions, voice, proof, and AI visibility assets.
 
 ## Purpose
-This private repository is the portable operating brain for AI Automation Innovators. It is intended to be readable by Codex, ChatGPT, Claude, Gemini, and future AI tools.
+This private repository is the portable operating brain for AI Automation Innovators. It is intended to help Kevin Tunis and approved AI tools work from the same source of truth without overbuilding or inventing unsupported facts.
+
+## Where to start
+1. Read `START-HERE.md` for the fastest orientation.
+2. Review `01-business/` before editing offers, positioning, voice, or constraints.
+3. Review the relevant folder in `02-projects/` before changing project-specific instructions.
+4. Use `04-proof-and-examples/` when looking for reusable examples, language, objections, or receipts.
 
 ## Structure
 - `01-business/` — core context about Kevin Tunis, AI Automation Innovators, voice, offers, and constraints.
@@ -17,3 +23,4 @@ This private repository is the portable operating brain for AI Automation Innova
 - Do not invent personal or business facts.
 - Keep changes small and requested.
 - Ask for missing information instead of guessing.
+- Preserve Kevin Tunis / AI Automation Innovators positioning.
