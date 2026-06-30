@@ -1,12 +1,15 @@
 # Workflow Leak Audit Notes
 
 ## Current direction
+
 The Workflow Leak Audit should be positioned as a practical local-business offer focused on missed opportunity, follow-up recovery, and workflow visibility.
 
 ## Core message
+
 Businesses often do not need more complexity first. They need to find where existing opportunities are getting lost and fix the operating gaps.
 
 ## Language to reuse
+
 - Workflow leaks.
 - Missed opportunity.
 - Follow-up recovery.
@@ -15,6 +18,7 @@ Businesses often do not need more complexity first. They need to find where exis
 - Practical audit before major automation.
 
 ## Open questions for Kevin
+
 - Final offer price.
 - Audit timeline.
 - Included meetings or calls.
@@ -24,6 +28,11 @@ Businesses often do not need more complexity first. They need to find where exis
 - Whether implementation is sold separately or bundled.
 
 ## Parking lot
-- Build a one-page intake checklist.
-- Create a sample audit report outline.
+
+- Build a one-page intake checklist after Kevin confirms final intake requirements.
+- Create a sample audit report outline after Kevin confirms delivery format.
 - Add examples by industry after Kevin confirms real or approved scenarios.
+
+## Current operational structure
+
+The audit framework now includes intake question categories, leak categories, scoring criteria, report sections, an example finding format, boundaries, and `TBD` items. Treat that framework as the working operational structure until Kevin confirms a final report format.

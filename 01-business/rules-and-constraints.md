@@ -1,9 +1,11 @@
 # Rules and Constraints
 
 ## Purpose
+
 Operating rules future AI tools should follow when working on this repository.
 
 ## Business and proof rules
+
 - Do not invent facts.
 - Do not make unsupported revenue claims.
 - Do not create fake proof.
@@ -15,11 +17,13 @@ Operating rules future AI tools should follow when working on this repository.
 - Distinguish confirmed proof from draft examples, placeholders, and `TBD` items.
 
 ## Workflow and tool rules
+
 - Start with the workflow problem before recommending tools.
 - Do not recommend tool changes unless they solve the workflow problem.
 - Treat AI as an operating layer that can support follow-up, visibility, handoffs, accountability, and consistency.
 
 ## Repository rules
+
 - Keep changes small and reviewable.
 - Stay markdown-first.
 - Preserve the existing numbered structure.
@@ -29,5 +33,6 @@ Operating rules future AI tools should follow when working on this repository.
 - Combine compatible guidance instead of replacing existing structure wholesale.
 
 ## Privacy and safety rules
+
 - Do not add private personal details.
 - Do not add sensitive family, health, financial, relocation, or client information unless explicitly confirmed as public-facing source material.

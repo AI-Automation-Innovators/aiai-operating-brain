@@ -1,18 +1,23 @@
 # Wins and Receipts
 
 ## Purpose
+
 Evidence and proof points that can be referenced safely.
 
 ## What belongs here
+
 Confirmed wins, receipts, testimonials, metrics, links, and permission notes.
 
 ## What not to include
+
 Client names, metrics, or testimonials without permission or source.
 
 ## Current proof status
+
 No confirmed wins, receipts, testimonials, metrics, or public proof are documented in this file yet. Treat proof as `TBD` until source, date, permission status, and approved wording are added.
 
 ## Receipt template
+
 ```markdown
 ## Win or receipt
 - Date:
@@ -34,6 +39,7 @@ No confirmed wins, receipts, testimonials, metrics, or public proof are document
 ```
 
 ## Example categories
+
 - Workflow Leak Audit outcomes.
 - Follow-up recovery wins.
 - Time saved or handoff clarity improvements.
@@ -41,4 +47,5 @@ No confirmed wins, receipts, testimonials, metrics, or public proof are document
 - Published assets or public proof.
 
 ## Update rules
+
 Record source, date, permission status, and exact approved wording when possible.
