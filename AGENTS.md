@@ -20,3 +20,4 @@ Keep this file concise. Update it when repository-wide agent behavior needs to c
 - Preserve Kevin Tunis / AI Automation Innovators positioning.
 - Ask for missing information instead of guessing.
 - Do not add automation, dependencies, or extra folders unless explicitly requested.
+- When resolving conflicts, preserve the existing repository structure and combine compatible guidance instead of replacing it wholesale.
