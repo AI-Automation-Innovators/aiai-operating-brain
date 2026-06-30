@@ -19,6 +19,11 @@ Local service businesses and operators in Central Texas who have leads, customer
 - Mark unknown pricing, timeline, CRM/tool preferences, and intake requirements as `TBD` until Kevin confirms them.
 - Do not invent client proof, results, testimonials, or specific customer stories.
 
+## Draft operating assets
+- `intake-questionnaire.md` contains draft intake questions for reviewing a local business workflow.
+- `sample-audit-report-outline.md` contains a draft report structure for audit findings and recommendations.
+- Treat both as draft assets until Kevin confirms final delivery details.
+
 ## Next inputs needed from Kevin
 - Price or price range.
 - Audit timeline and delivery format.
