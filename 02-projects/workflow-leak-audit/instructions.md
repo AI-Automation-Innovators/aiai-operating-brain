@@ -1,13 +1,27 @@
 # Workflow Leak Audit Instructions
 
 ## Purpose
-Project-specific instructions for the Workflow Leak Audit.
+Keep the Workflow Leak Audit focused on finding missed opportunity inside day-to-day workflows for Central Texas local businesses.
 
-## What belongs here
-Confirmed goals, workflow, AI-agent instructions, and editing guidance for this project.
+## Positioning rules
+- Use the name `Workflow Leak Audit`.
+- Describe the problem as missed opportunity, follow-up gaps, handoff gaps, and revenue already earned but not recovered.
+- Position AI as the operating layer that helps organize, monitor, and improve the workflow.
+- Avoid AI hype, generic transformation language, or promises of guaranteed revenue.
+- Preserve Kevin Tunis / AI Automation Innovators as the expert guide.
 
-## What not to include
-Unapproved automations, scope creep, or invented client scenarios.
+## Core audience
+Local service businesses and operators in Central Texas who have leads, customers, jobs, appointments, inquiries, or follow-ups moving through repeatable workflows.
 
-## Update rules
-Update when project direction changes. Keep instructions actionable.
+## Editing guidance
+- Keep copy plainspoken, practical, and easy to scan.
+- Prefer short sections, bullets, examples, and direct language.
+- Mark unknown pricing, timeline, CRM/tool preferences, and intake requirements as `TBD` until Kevin confirms them.
+- Do not invent client proof, results, testimonials, or specific customer stories.
+
+## Next inputs needed from Kevin
+- Price or price range.
+- Audit timeline and delivery format.
+- Preferred CRM, inbox, calendar, and workflow tools.
+- Intake questionnaire.
+- Sample audit report format.
