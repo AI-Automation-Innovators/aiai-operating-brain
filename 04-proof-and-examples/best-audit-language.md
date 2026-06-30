@@ -1,24 +1,30 @@
 # Best Audit Language
 
 ## Purpose
+
 Reusable language for audits and recommendations.
 
 ## What belongs here
+
 Strong phrases, diagnostic wording, explanations, and before/after examples.
 
 ## What not to include
+
 Unsupported claims, jargon, or language that overpromises outcomes.
 
 ## Preferred positioning
+
 - Lead with business outcomes before tools.
 - Name the workflow leak before recommending automation.
 - Frame AI as an operating layer that supports follow-up, accountability, and decision flow.
 - Keep recommendations practical, observable, and tied to current operations.
 
 ## Current status
+
 This file currently contains templates and draft language structure, not confirmed proof. Label entries as Draft, approved, or proven before reuse.
 
 ## Language bank
+
 ```markdown
 ## Phrase or section
 - Use case:
@@ -36,6 +42,7 @@ This file currently contains templates and draft language structure, not confirm
 ```
 
 ## Before and after template
+
 ```markdown
 ## Audit finding
 - Workflow area:
@@ -53,4 +60,5 @@ This file currently contains templates and draft language structure, not confirm
 ```
 
 ## Update rules
+
 Keep language clear, specific, and aligned with confirmed offers.
