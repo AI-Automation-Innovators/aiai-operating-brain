@@ -25,6 +25,15 @@ Small and local service businesses with repeatable customer workflows, especiall
 ### Positioning
 The audit starts with the workflow, not AI for its own sake. AI automation is considered only when it can support follow-up, visibility, handoffs, accountability, or consistency.
 
+Use plain-English business language: missed money, missed follow-up, unclear ownership, stale estimates, customer recovery gaps, and operational leakage.
+
+### Core leak categories
+- Lead capture.
+- Follow-up.
+- Handoff.
+- Customer recovery.
+- Visibility.
+
 ### Known boundaries
 - This is an audit, not a full automation build unless separately scoped.
 - No guaranteed revenue claims.
@@ -35,7 +44,7 @@ The audit starts with the workflow, not AI for its own sake. AI automation is co
 - Price: `TBD`.
 - Timeline: `TBD`.
 - Delivery format: `TBD`.
-- Exact deliverables: `TBD`.
+- Exact deliverables: use `02-projects/workflow-leak-audit/audit-framework.md` as the working draft; final deliverables are `TBD` until Kevin approves them.
 - Guarantees: `TBD`; do not invent or imply guarantees.
 - Implementation scope: `TBD`; do not assume implementation is included.
 

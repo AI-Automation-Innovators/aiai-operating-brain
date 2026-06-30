@@ -8,6 +8,11 @@ AI Automation Innovators is a practical, workflow-first AI automation business l
 
 The business focuses on finding where day-to-day operations lose opportunities through missed follow-up, manual work, unclear ownership, weak intake, handoff gaps, and limited visibility.
 
+## Location Context
+AI Automation Innovators may be positioned around Belton, Texas, and Central Texas when discussing local business workflow needs.
+
+Keep location references practical and do not invent office addresses, service territories, partnerships, or local proof.
+
 ## Who it serves
 AI Automation Innovators serves small and local service businesses with repeatable customer workflows.
 
@@ -30,6 +35,11 @@ The operating question is not "What AI tool should be added first?" It is "Where
 AI Automation Innovators talks about AI as an operating layer, not a novelty tool.
 
 AI should support clearer follow-up, better visibility, stronger handoffs, and more consistent execution. Tool changes should only be recommended when they solve the workflow problem.
+
+## Connection to Workflow Leak Audit
+The current primary offer is the Workflow Leak Audit. It reviews lead capture, follow-up, handoffs, customer recovery, and visibility to identify practical missed-opportunity points.
+
+The audit should be described as a structured review and recommendation process, not a guaranteed revenue program or full automation build.
 
 ## Boundaries
 - Do not invent proof, client results, revenue, testimonials, pricing, guarantees, or client names.
